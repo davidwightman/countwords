@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/davidwightman/countwords#readme",
   "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react-app": "^3.1.0",
     "webpack": "^3.9.1"
   }
 }
